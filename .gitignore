@@ -1,3 +1,5 @@
 .fuse*
 *.pyc
 __*__
+.env
+venv/
